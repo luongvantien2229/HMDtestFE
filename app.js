@@ -28,3 +28,4 @@ app.controller('ProductController', function($scope, $http) {
     // Gọi API ngay khi trang được load
     $scope.getProducts();
 });
+ 
